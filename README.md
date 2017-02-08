@@ -7,4 +7,4 @@ Artikel ecommerce yang saya translate (Private)
 * [Pengiklan cinta terprogram, tetapi apa yang tentang penerbit?](https://github.com/josephin-ong/translated-ecommerce-artikel/blob/master/2017/01/pengiklan-cinta-terprogram-tetapi-apa-yang-tentang-penerbit.md')
 
 
-Untuk yang bertanya kami pake platform apa, ini yang kami pakai >> [berdu](https://berdu.id)
+Untuk yang bertanya kami pake platform apa, ini yang kami pakai >> __[berdu](https://berdu.id)__
