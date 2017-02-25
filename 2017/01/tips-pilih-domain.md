@@ -63,4 +63,4 @@ Untuk melindungi merek Anda, Anda harus membeli berbagai ekstensi domain, serta 
 
 Nama domain menjual cepat. Untungnya, mereka juga murah, jadi mendaftarkan nama domain favorit Anda sesegera mungkin. Jika Anda mengalami kesulitan menemukan nama yang tersedia, pendaftar domain seperti GoDaddy akan menyarankan nama alternatif selama pencarian domain Anda untuk membantu Anda menemukan nama domain yang sempurna.
 
-Ditulis untuk: https://berdu.id
+** Anda buat toko online dan dapatkan domain gratis di https://berdu.id
