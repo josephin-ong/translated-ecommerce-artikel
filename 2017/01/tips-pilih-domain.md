@@ -1,8 +1,8 @@
-# Tips Memili Nama Domain
+# Tips Memilih Nama Domain
 
 Memilih nama domain yang mirip dengan memilih nama perusahaan - membutuhkan banyak pemikiran dan pertimbangan. Nama domain Anda adalah identitas Anda di web; Anda ingin memastikan Anda memilih nama domain yang tidak hanya cocok bisnis Anda, tetapi juga mudah untuk menemukan dan mempromosikan.
 
-Anda juga bisa lihat [_Untuk tips nama domain untuk toko online_](https://berdu.id/blog/5-ciri-nama-domain-berkualitas-untuk-toko-online-baru-anda
+** Anda juga bisa lihat [_Untuk tips nama domain untuk toko online_](https://berdu.id/blog/5-ciri-nama-domain-berkualitas-untuk-toko-online-baru-anda
 )
 
 Ikuti langkah-langkah di bawah ini untuk membantu Anda memilih nama domain yang sempurna. 
