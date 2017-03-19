@@ -8,4 +8,4 @@ Artikel ecommerce yang saya translate (Private)
 * [10 Trik untuk ‘Call to Action’ yang Bagus](https://github.com/josephin-ong/translated-ecommerce-artikel/blob/master/2017/01/10-trik-untuk-call-to-action-yang-bagus.md)
 
 ## 03/2017
-* [Apa itu pemasaran brand](https://github.com/josephin-ong/translated-ecommerce-artikel/blob/master/2017/01/apa-itu-pemasaran-brand)
+* [Apa itu pemasaran brand](https://github.com/josephin-ong/translated-ecommerce-artikel/blob/master/2017/01/apa-itu-pemasaran-brand.md)
