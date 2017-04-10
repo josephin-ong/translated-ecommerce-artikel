@@ -9,3 +9,4 @@ Artikel ecommerce yang saya translate (Private)
 
 ## 03/2017
 * [Apa itu pemasaran brand](https://github.com/josephin-ong/translated-ecommerce-artikel/blob/master/2017/01/apa-itu-pemasaran-brand.md)
+* [Cek Resi dan Cek Ongkir](https://github.com/josephin-ong/translated-ecommerce-artikel/blob/master/2017/01/cek-ongkir-cek-resi.md)
