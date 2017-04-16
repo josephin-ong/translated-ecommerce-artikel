@@ -9,7 +9,7 @@ Untuk cek ongkir dan melakukan mengecekan pengirim kamu bisa memakai:
 
 ## Cek Resi
 Dan untuk melacak paket yang sudah kamu kirimkan kamu  menggunakan alat berikut, hanya dengan resi yang diberikan oleh kurir kamu, kamu bisa langsung mencek lokasi paket kamu, dan paket kamu sedang apa:
-- [Cek Resi langsung ke JNE](https://buattokoonline.yukbisnis.com/jne.co.id/id/tracking/trace) - Kamu juga bisa Langsung mencek pengiriman di website JNE. Tapi seperti mencek ongkos kirim di JNE, keribetan memasukan captcha akan terus ada. Tenaga terbuang, waktu terbuang. 
+- [Cek Resi langsung ke JNE](http://jne.co.id/id/tracking/trace) - Kamu juga bisa Langsung mencek pengiriman di website JNE. Tapi seperti mencek ongkos kirim di JNE, keribetan memasukan captcha akan terus ada. Tenaga terbuang, waktu terbuang. 
     Andai saja ada alat yang bisa melacak resi tanpa perlu susah-susah memasukan catpcha
 - [Cek Resi untuk kurir JNE, J&T, Sicepat, Wahana, Tiki, First TANPA CAPTCHA](https://berdu.id/cek-resi) - Sekali lagi alat yang dibuat Berdu selalu menjadi favorit saya. Alasan utamanya adalah karena tidak perlu memasukan captcha dan tidak adanya iklan. Membuka website cek resi pada umumnya sering ada iklan, dan mendirect saya ke halaman-halaman aneh. Iklan seperti ini juga membuat browser menjadi lambat, hal ini tak perlu dikawathirkan lagi di produk produk Berdu
 - [Cek Resi lansung dari J&T](https://jet.co.id/track) - Pengecekan resi di J&T sangat simpel, saya tidak bisa komplen banyak
